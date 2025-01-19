@@ -1,7 +1,9 @@
 # Second-Price Auction Algorithm: Strategic Bidding Framework
 
 ## **Overview**
-This project focuses on implementing a competitive bidding algorithm for a second-price auction used in online advertising. The auction design incentivizes truthful bidding by charging the winning bidder the second-highest bid. The challenge involved creating a `Bidder` class that efficiently balances exploration (learning user behavior) and exploitation (maximizing payoffs) in a competitive landscape.
+This project focuses on implementing a competitive bidding algorithm for a second-price auction used in online advertising **from scratch**. The auction design incentivizes truthful bidding by charging the winning bidder the second-highest bid. The challenge involved creating a `Bidder` class that efficiently balances exploration (learning user behavior) and exploitation (maximizing payoffs) in a competitive landscape.
+
+Note: This project models a simplified version of second-price auctions, emphasizing strategic algorithm design without the use of machine learning techniques, offering a foundation for deeper exploration of auction dynamics.
 
 ## **Auction Structure**
 The auction consists of multiple rounds involving a set of users and bidders:
