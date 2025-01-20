@@ -3,7 +3,7 @@
 ## **Overview**
 This project focuses on implementing a competitive bidding algorithm for a second-price auction used in online advertising **from scratch**. The auction design incentivizes truthful bidding by charging the winning bidder the second-highest bid. The challenge involved creating a `Bidder` class that efficiently balances exploration (learning user behavior) and exploitation (maximizing payoffs) in a competitive landscape.
 
-Note: This project models a simplified version of second-price auctions, emphasizing strategic algorithm design without the use of machine learning techniques, offering a foundation for deeper exploration of auction dynamics.
+Note: This project models a simplified version of second-price auctions, emphasizing strategic algorithm design _without the use of machine learning techniques_, offering a foundation for deeper exploration of auction dynamics.
 
 ## **Auction Structure**
 The auction consists of multiple rounds involving a set of users and bidders:
@@ -44,7 +44,7 @@ Manages the auction process and provides insights through visualization:
 - **Object-Oriented Design:** Flexible and modular code structure, enabling easy scalability.
 
 ## **Key Takeaways**
-- Developed a dynamic strategy for second-price auction bidding.
+- Developed a dynamic strategy for second-price auction bidding _limited to techniques other than machine learning_.
 - Enhanced proficiency in Python and its data science libraries.
 - Gained experience in modeling competitive environments with strategic interactions.
 - Successfully balanced exploration and exploitation to optimize outcomes.
