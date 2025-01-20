@@ -41,17 +41,7 @@ Manages the auction process and provides insights through visualization:
 
 ## **Features**
 - **Dynamic Bidding Strategy:** The bidding algorithm adapts based on observed click probabilities and competitor behaviors.
-- **Visualization:** A comprehensive performance visualization to evaluate bidder strategies.
 - **Object-Oriented Design:** Flexible and modular code structure, enabling easy scalability.
-
-## **Technologies Used**
-- **Python Libraries:** 
-  - `numpy` for numerical operations.
-  - `matplotlib` and `seaborn` for visualizations.
-  - `pandas` for data manipulation.
-  
-## **Visualization Example**
-The project includes a graphical representation of bidder balances over time. This visualization helps assess the effectiveness of different strategies.
 
 ## **Key Takeaways**
 - Developed a dynamic strategy for second-price auction bidding.
@@ -74,4 +64,4 @@ The project includes a graphical representation of bidder balances over time. Th
 
 ---
 
-Created this for a class project. Once all submissions were collected, my algorithm submission `bidder_naidoo.py` was pit against all other submissions in a final competition. In a competition game, one Bidder from each submissions will be created along with a set of Users. Points were awarded based on the final ranking. `This placed Top 10 out of 130 submissions`.
+Created this for a class project. Once all submissions were collected, my algorithm submission `bidder_naidoo.py` was pit against all other submissions in a final competition. In a competition game, one Bidder from each submissions will be created along with a set of Users. Points were awarded based on the final ranking. `This placed 9th out of 130 submissions`.
